@@ -1,0 +1,22 @@
+{
+  "name": "FinalAssessment",
+  "version": "1.0.0",
+  "description": "HR Bootcamp Final Assessment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvanegas/2015-07-Final-Assessment.git"
+  },
+  "author": "Carlos Vanegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvanegas/2015-07-Final-Assessment/issues"
+  },
+  "homepage": "https://github.com/cvanegas/2015-07-Final-Assessment",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
